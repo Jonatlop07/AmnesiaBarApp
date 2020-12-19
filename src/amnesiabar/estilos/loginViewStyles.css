@@ -1,0 +1,52 @@
+.vb-section {
+   -fx-alignment: center;
+   -fx-spacing: 20px;
+   -fx-border: 4px solid black;
+}
+
+.vb-login-section {
+   -fx-background-color: radial-gradient(circle, rgba(250,111,5,1) 1%, rgba(237,231,15,1) 50%, rgba(250,111,5,1) 100%);
+}
+
+.lb-login {
+    -fx-font: bold 25px Courier;
+    -fx-text-fill: blue;
+}
+
+.hb-user-login {
+    -fx-alignment: center;
+    -fx-spacing: 5px;
+}
+
+.lb-user-name {
+    -fx-font: 16px Courier;
+}
+
+.hb-user-password {
+    -fx-alignment: center;
+    -fx-spacing: 5px;
+}
+
+.lb-user-password {
+    -fx-font: 16px Courier;
+}
+
+.lb-notification {
+    -fx-font: bold 12px Courier;
+}
+
+.btn-login {
+    -fx-background-color: #AFFA97;
+    -fx-border: 5px black;
+}
+
+.vb-title-section {
+    -fx-background-color: linear-gradient(from 25% 25% to 100% 100%, #AFFA97, #47A828);
+}
+
+.lb-title {
+    -fx-border: 40px bold "Courier New";
+    -fx-text-fill: white;
+    -fx-stroke: firebrick;
+    -fx-stroke-width: 4px;
+}
